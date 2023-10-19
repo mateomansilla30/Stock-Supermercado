@@ -1,5 +1,5 @@
 # Stock-Supermercado
-TAD-Tabla hash para control stock de supermercado
+TAD-Tabla hash en Python para control stock de supermercado
 
 
  programa para el control de stock de un supermercado usando una Tabla Hash. 
