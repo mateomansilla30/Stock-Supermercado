@@ -6,3 +6,5 @@ TAD-Tabla hash en Python para control stock de supermercado
  La misma se utilizará para almacenar información sobre los productos disponibles en el supermercado y la cantidad de unidades disponibles.
  La Tabla Hash debe resolver sus colisiones con encadenamiento.
  Está pensado para que el supermercado venda normalmente más de  40000  productos.
+
+ La idea no fue usar una funcion hash ya hecha, si no hacer la propia.
